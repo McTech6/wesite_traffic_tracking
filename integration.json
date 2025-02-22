@@ -11,7 +11,7 @@
       "app_logo": "https://i.postimg.cc/KjTRtzKP/main.jpg",
       "background_color": "#fff"
     },
-    "integration_category": "Analytics & Monitoring",
+    "integration_category": "Data Analytics & Visualization",
     "key_features": [
       "Tracks visitor IP and user agent",
       "Sends real-time visit logs to Telex webhook",
