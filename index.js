@@ -20,7 +20,7 @@ app.use(express.json());
 
 // Serve integration.json file
 app.get("/integration", (req, res) => {
-    res.sendFile(path.join(__dirname, "../integration.json"));
+    res.sendFile(path.join(__dirname, "integration.json"));
 });
 
 // Main route
