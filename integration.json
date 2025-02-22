@@ -7,7 +7,7 @@
     "descriptions": {
       "app_name": "Website Traffic Monitor",
       "app_description": "Tracks and logs website visits in real time.",
-      "app_url": "http://your-website-url.com",
+      "app_url": "https://wesite-traffic-tracking-1.onrender.com",
       "app_logo": "https://i.postimg.cc/KjTRtzKP/main.jpg",
       "background_color": "#fff"
     },
@@ -28,7 +28,7 @@
         "default": "https://ping.telex.im/v1/webhooks/your-webhook-id/track-visit"
       }
     ],
-    "tick_url": "http://your-website-url.com/tick",
-    "target_url": "http://your-website-url.com/api/integration"
+    "tick_url": "https://wesite-traffic-tracking-1.onrender.com/tick",
+    "target_url": "https://wesite-traffic-tracking-1.onrender.com/integration"
   }
 }
