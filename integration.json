@@ -25,7 +25,7 @@
         "type": "text",
         "description": "Webhook URL for receiving website visit logs.",
         "required": true,
-        "default": "https://ping.telex.im/v1/webhooks/your-webhook-id/track-visit"
+        "default": "https://ping.telex.im/v1/webhooks/0195186a-2d99-7f9c-924a-dbece90fd7d9/track-visit"
       }
     ],
     "tick_url": "https://wesite-traffic-tracking-1.onrender.com/tick",
