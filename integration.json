@@ -18,7 +18,7 @@
       "Secure and efficient logging",
       "Built with Node.js, Express, and Telex API"
     ],
-    "integration_type": "webhook",
+    "integration_type": "output",
     "settings": [
       {
         "label": "telex_webhook_url",
